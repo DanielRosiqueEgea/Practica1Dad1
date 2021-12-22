@@ -1,7 +1,9 @@
 # Practica1Dad1
 Practica de desarrollo de aplicaciones distribuidas 1, este es un trabajo universitario que trata de una conexion a un servidor local (en el propio ordenador) para manejar clientes y usuarios
+<p>
 El enunciado del trabajo se encuentra en el pdf "Enero enunciado paractica sockets.pdf"
 Subiré el JavaDoc en cuanto el trabajo esté terminado.
+</p>
 Algunas funcionalidades extra (no incluidas en el enunciado) son:
     - Cifrado de contraseña del usuario -> clasesdedatos.Usuario.cifrarContraseña(String)
     - Uso de una "Base de datos" mediante ficheros .ser -> sede.Sede.cargarBaseDatos() y sede.Sede.guardarBaseDatos()
