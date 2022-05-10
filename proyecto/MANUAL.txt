@@ -1,0 +1,51 @@
+//GestiÛn de cuenta
+
+USER <name> 			-> Env√≠a el nombre del usuario con el que realizar la conexi√≥n.
+
+PASS <pass>				-> Env√≠a la contrase√±a del usuario.
+
+ACCT <name> <pass> 		-> EnvÌa nombre y contraseÒa para iniciar sesion
+
+//GestiÛn de clientes
+
+ADDCLIENTE				-> Solicita a√±adir un cliente.
+			
+UPDATECLIENTE <id>		-> Solicita actualizar los datos de un cliente identificado con <id>.
+
+GETCLIENTE <id>			-> Solicita los datos de un cliente identificado con <id>. 
+
+REMOVECLIENTE <id>		-> Solicita eliminar el cliente identificado con <id>.
+
+LISTCLIENTES			-> Listado de clientes existentes. 
+
+COUNTCLIENTES			-> Solicita el total de clientes que hay en el sistema.
+
+//Gestion de productos
+
+ADDPRODUCTO				-> Solicita aÒadir un producto.
+
+UPDATEPRODUCTO <id>		-> Solicita actualizar los datos del producto identificado con <id>.
+
+GETPRODUCTO <id>		-> Solicita los datos del producto identificado con <id>.
+		
+REMOVEPRODUCTO <id> 	-> Solicita eliminar el producto identificado con <id>
+
+LISTPRODUCTOS			-> Listado de productos existentes. 
+
+COUNTPRODUCTOS 			-> Solicita el total de productos que hay en el sistema
+
+//EXTRAS
+
+CONNECTED	-> Solicita los datos de los usuarios conectados al sistema.
+
+LOAD		-> Carga la base de datos de la sede local (Rollback).
+
+SAVE		-> Guarda la base de datos en la sede local (Commit).
+
+MAN 		-> Muestra informacion sobre los comandos que se pueden introducir.
+
+flecha arriba	-> Te permite desplazarte hacia arriba en el historial de comandos
+
+flecha abajo	-> Te permite desplazarte hacia abajo en el historial de comandos
+
+EXIT		-> Cierra la sesion.

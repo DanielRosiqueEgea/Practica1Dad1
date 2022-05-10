@@ -1,0 +1,70 @@
+2022-01-09T21:04:55.133545900	: Se ha introducido el comando: 0 USER admin
+2022-01-09T21:04:55.134806800	: Usuario encontrado correctamente admin
+2022-01-09T21:04:59.001417300	: Se ha introducido el comando: 1 USER dani
+2022-01-09T21:04:59.001417300	: Usuario encontrado correctamente dani
+2022-01-09T21:05:04.265710300	: Se ha introducido el comando: 2 PASS dani
+2022-01-09T21:05:04.266729400	: Se ha iniciado sesion correctamente
+2022-01-09T21:05:09.679957400	: Se ha introducido el comando: 3 LISTCLIENTES
+2022-01-09T21:05:09.680954700	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-09T21:05:09.683101600	: Se ha lanzado un preok para listar los clientes
+2022-01-09T21:05:09.689935100	: Se ha enviado la lista de los clientes correctamente
+2022-01-09T21:05:19.315732500	: Se ha introducido el comando: 4 UPDATECLIENTE
+2022-01-09T21:05:19.315732500	: ERROR: Comando UPDATECLIENTE Intoducido Incorrectamente
+2022-01-09T21:05:22.309409200	: Se ha introducido el comando: 5 UPDATECLIENTE
+2022-01-09T21:05:22.310373700	: ERROR: Comando UPDATECLIENTE Intoducido Incorrectamente
+2022-01-09T21:05:24.458946300	: Se ha introducido el comando: 6 UPDATECLIENTE 1
+2022-01-09T21:05:24.458946300	: Se va a abrir el canal de datos 2023
+2022-01-09T21:05:24.459944400	: Se ha lanzado un preok para actualizar un cliente
+2022-01-09T21:05:24.462934400	: Se ha enviado el cliente correctamente
+2022-01-09T21:05:44.330670	: Se ha actualizado correctamente el cliente
+2022-01-09T21:05:51.065565	: Se ha introducido el comando: 7 LISTCLIENTES
+2022-01-09T21:05:51.065565	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-09T21:05:51.066563500	: Se ha lanzado un preok para listar los clientes
+2022-01-09T21:05:51.069554700	: Se ha enviado la lista de los clientes correctamente
+2022-01-09T21:05:58.103566300	: Se ha introducido el comando: 8 GETCLIENTE 1
+2022-01-09T21:05:58.104562700	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-09T21:05:58.105562400	: Se ha lanzado un preok para obtener el cliente
+2022-01-09T21:05:58.108551500	: Se ha enviado el cliente correctamente
+2022-01-09T21:06:02.489965600	: Se ha introducido el comando: 9 LOAD
+2022-01-09T21:06:02.492571300	: Se ha cargado la base de datos
+2022-01-09T21:06:07.838256600	: SEVERE ERROR: HA OCURRIDO UN ERROR EN EL SERVIDOR
+2022-01-09T21:06:07.838256600	: Index 1 out of bounds for length 1
+2022-01-09T21:06:07.839257700	: Se ha cerrado la conexion
+2022-01-09T23:24:52.773602500	: Se ha iniciado sesion correctamente
+2022-01-09T23:24:56.789227500	: Se ha introducido el comando: 2 CONNECTED
+2022-01-09T23:24:56.789227500	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-09T23:24:56.790225	: Se ha lanzado un preok para listar los usuarios conectados
+2022-01-09T23:24:56.794213800	: Se ha enviado la lista de los usuarios correctamente
+2022-01-09T23:25:10.434854900	: Se ha introducido el comando: 3 CONNECTED
+2022-01-09T23:25:10.437833200	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-09T23:25:10.439024	: Se ha lanzado un preok para listar los usuarios conectados
+2022-01-09T23:25:10.442818	: Se ha enviado la lista de los usuarios correctamente
+2022-01-09T23:25:24.459286700	: Se ha introducido el comando: 4 GETCLIENTE
+2022-01-09T23:25:24.459286700	: ERROR: Comando GETCLIENTE Intoducido Incorrectamente
+2022-01-09T23:25:28.807686500	: Se ha introducido el comando: 5 GETCLIENTE 1
+2022-01-09T23:25:28.808804	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-09T23:25:28.809681300	: Se ha lanzado un preok para obtener el cliente
+2022-01-09T23:25:28.811707800	: Se ha enviado el cliente correctamente
+2022-01-09T23:25:30.264483800	: Se ha introducido el comando: 6 GETCLIENTE 2
+2022-01-09T23:25:30.265566100	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-09T23:25:30.266607600	: Se ha lanzado un preok para obtener el cliente
+2022-01-09T23:25:30.270585300	: Se ha enviado el cliente correctamente
+2022-01-09T23:25:34.470043200	: Se ha introducido el comando: 7 GETCLIENTE 3
+2022-01-09T23:25:34.471040	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-09T23:25:34.471040	: Se ha lanzado un preok para obtener el cliente
+2022-01-09T23:25:34.473033300	: Se ha enviado el cliente correctamente
+2022-01-09T23:25:37.552796700	: SEVERE ERROR: HA OCURRIDO UN ERROR EN EL SERVIDOR
+2022-01-09T23:25:37.553997200	: Connection reset
+2022-01-09T23:25:37.553997200	: Se ha cerrado la conexion
+2022-01-21T23:19:48.743099600	: Se ha iniciado sesion correctamente
+2022-01-21T23:19:56.547819400	: Se ha introducido el comando: 1 CONNECTED
+2022-01-21T23:19:56.548783600	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-21T23:19:56.549780500	: Se ha lanzado un preok para listar los usuarios conectados
+2022-01-21T23:19:56.551824700	: Se ha enviado la lista de los usuarios correctamente
+2022-01-21T23:20:06.926512100	: Se ha introducido el comando: 2 CONNECTED
+2022-01-21T23:20:06.926512100	: Se va a abrir el canal de datos en el puerto 2023
+2022-01-21T23:20:06.927507100	: Se ha lanzado un preok para listar los usuarios conectados
+2022-01-21T23:20:06.929503600	: Se ha enviado la lista de los usuarios correctamente
+2022-01-21T23:20:13.967284600	: SEVERE ERROR: HA OCURRIDO UN ERROR EN EL SERVIDOR
+2022-01-21T23:20:13.967284600	: Connection reset
+2022-01-21T23:20:13.968280400	: Se ha cerrado la conexion

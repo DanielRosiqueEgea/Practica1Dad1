@@ -1,0 +1,94 @@
+2022-01-09T21:06:57.980079100	: SEVERE ERROR: HA OCURRIDO UN ERROR EN EL SERVIDOR
+2022-01-09T21:06:57.980079100	: Index 1 out of bounds for length 1
+2022-01-09T21:06:57.981074700	: Se ha cerrado la conexion
+2022-01-09T21:19:58.754909500	: Se ha introducido el comando: 0 USER admin
+2022-01-09T21:19:58.756054200	: Usuario encontrado correctamente admin
+2022-01-09T21:20:02.698178300	: Se ha introducido el comando: 1 PASS admin
+2022-01-09T21:24:47.524978600	: Se ha introducido el comando: 0 USER admin
+2022-01-09T21:24:47.524978600	: Usuario encontrado correctamente admin
+2022-01-09T21:24:55.667638	: Se ha introducido el comando: 1 PSS admin
+2022-01-09T21:25:03.130338900	: Se ha introducido el comando: 2 PASS admin
+2022-01-09T21:39:26.670493800	: Se ha introducido el comando: 0 USER admin
+2022-01-09T21:39:26.672226800	: Usuario encontrado correctamente admin
+2022-01-09T21:39:30.853965600	: Se ha introducido el comando: 1 PASS admin
+2022-01-09T23:24:30.123734900	: Se ha introducido el comando: 0 USER admin
+2022-01-09T23:24:30.124634100	: Usuario encontrado correctamente admin
+2022-01-09T23:24:35.489774200	: Se ha introducido el comando: 1 PASS admin
+2022-01-09T23:24:49.272441900	: Se ha introducido el comando: 0 USER dani
+2022-01-09T23:24:49.272755600	: Usuario encontrado correctamente dani
+2022-01-09T23:24:52.772633400	: Se ha introducido el comando: 1 PASS dani
+2022-01-11T09:07:26.210496	: Se ha introducido el comando: 0 USER admin
+2022-01-11T09:07:26.242391100	: Usuario encontrado correctamente admin
+2022-01-11T09:07:34.400402300	: Se ha introducido el comando: 1 PASS admin
+2022-01-20T19:13:37.841851	: Se ha introducido el comando: 0 UPDATECLIENTE 1
+2022-01-20T19:13:45.168425800	: Se ha introducido el comando: 1 USER admin
+2022-01-20T19:13:45.169391100	: Usuario encontrado correctamente admin
+2022-01-20T19:13:50.562378500	: Se ha introducido el comando: 2 PASS admin
+2022-01-20T19:16:08.731402400	: Se ha introducido el comando: 0 EXIT
+2022-01-20T19:16:08.731402400	: Se ha cerrado la conexion
+2022-01-20T19:16:18.549090200	: Se ha introducido el comando: 0 EXIt
+2022-01-20T19:16:20.681318800	: Se ha introducido el comando: 1 EXIT
+2022-01-20T19:16:20.682287100	: Se ha cerrado la conexion
+2022-01-20T19:29:19.951137600	: Se ha introducido el comando: 0 man
+2022-01-20T19:29:37.291238400	: Se ha introducido el comando: 1 ACCT admin admin
+2022-01-20T19:30:43.740983900	: SEVERE ERROR: HA OCURRIDO UN ERROR EN EL SERVIDOR
+2022-01-20T19:30:43.741924900	: Connection reset
+2022-01-20T19:30:43.742924100	: Se ha cerrado la conexion
+2022-01-20T19:36:16.875390600	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-20T19:36:40.412482100	: SEVERE ERROR: HA OCURRIDO UN ERROR EN EL SERVIDOR
+2022-01-20T19:36:40.412482100	: Connection reset
+2022-01-20T19:36:40.413480900	: Se ha cerrado la conexion
+2022-01-20T19:36:58.426413700	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-20T19:36:58.426932800	: Usuario encontrado correctamente admin
+2022-01-20T19:53:41.865956400	: Se ha introducido el comando: 0 ACCT
+2022-01-20T19:53:41.865956400	: ERROR: Comando ACCT Intoducido Incorrectamente
+2022-01-20T19:53:42.932165300	: Se ha introducido el comando: 1 ACCTdaf
+2022-01-20T19:53:51.811122300	: Se ha introducido el comando: 2 1
+2022-01-20T19:53:52.387060100	: Se ha introducido el comando: 3 12
+2022-01-20T19:53:53.933984800	: Se ha introducido el comando: 4 123
+2022-01-20T19:53:54.450750400	: Se ha introducido el comando: 5 1234
+2022-01-20T19:53:55.068756400	: Se ha introducido el comando: 6 12345
+2022-01-20T19:53:56.218766	: Se ha introducido el comando: 7 123456
+2022-01-20T19:53:56.895194100	: Se ha introducido el comando: 8 1234567
+2022-01-20T19:54:06.253096400	: SEVERE ERROR: HA OCURRIDO UN ERROR EN EL SERVIDOR
+2022-01-20T19:54:06.254037500	: Connection reset
+2022-01-20T19:54:06.254127300	: Se ha cerrado la conexion
+2022-01-20T19:54:48.957901600	: Se ha introducido el comando: 0 1
+2022-01-20T19:54:53.735959600	: Se ha introducido el comando: 1 ACCT admin admin
+2022-01-20T19:54:53.735959600	: Usuario encontrado correctamente admin
+2022-01-20T19:55:12.358985800	: Se ha introducido el comando: 0 ACCT 
+2022-01-20T19:55:12.359982800	: ERROR: Comando ACCT Intoducido Incorrectamente
+2022-01-20T19:55:14.639645700	: Se ha introducido el comando: 1 ACCT acmin
+2022-01-20T19:55:14.640010	: ERROR: Comando ACCT Intoducido Incorrectamente
+2022-01-20T19:55:16.760848500	: Se ha introducido el comando: 2 ACCT acmin admin
+2022-01-20T19:55:16.760848500	: ERROR: Usuario no encontrado
+2022-01-20T19:55:16.761841400	: SEVERE ERROR: HA OCURRIDO UN ERROR EN EL SERVIDOR
+2022-01-20T19:55:16.795977500	: Cannot invoke "Object.hashCode()" because "key" is null
+2022-01-20T19:55:16.796666400	: Se ha cerrado la conexion
+2022-01-20T19:56:09.012472200	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-20T19:56:09.013441900	: Usuario encontrado correctamente admin
+2022-01-21T22:49:55.130253	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-21T22:49:55.144665600	: Usuario encontrado correctamente admin
+2022-01-21T22:53:24.325850100	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-21T22:53:24.326903200	: Usuario encontrado correctamente admin
+2022-01-21T23:06:52.540788400	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-21T23:06:52.541791500	: Usuario encontrado correctamente admin
+2022-01-21T23:16:17.120604100	: Se ha cerrado la conexion
+2022-01-21T23:18:40.947497900	: Se ha ejecutado un KEEPALIVE
+2022-01-21T23:19:10.958353900	: Read timed out
+2022-01-21T23:19:10.959297800	: No está activo
+2022-01-21T23:19:10.960295	: Se ha cerrado la conexion
+2022-01-21T23:19:28.253221300	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-21T23:19:28.254218300	: Usuario encontrado correctamente admin
+2022-01-21T23:19:48.711263	: Se ha introducido el comando: 0 ACCT dani dani
+2022-01-21T23:19:48.711263	: Usuario encontrado correctamente dani
+2022-01-22T00:48:32.124088600	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-22T00:48:32.125086100	: Usuario encontrado correctamente admin
+2022-01-22T00:51:31.045618900	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-22T00:51:31.046618700	: Usuario encontrado correctamente admin
+2022-01-22T01:04:50.558372100	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-22T01:04:50.558372100	: Usuario encontrado correctamente admin
+2022-01-22T01:15:07.935317100	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-22T01:15:07.936304100	: Usuario encontrado correctamente admin
+2022-01-22T01:16:00.286971700	: Se ha introducido el comando: 0 ACCT admin admin
+2022-01-22T01:16:00.287966800	: Usuario encontrado correctamente admin
