@@ -1,1 +1,0 @@
-packageSearchIndex = [{"m":"practica1DAD","l":"administrador"},{"l":"All Packages","u":"allpackages-index.html"},{"m":"practica1DAD","l":"clasesdedatos"},{"m":"practica1DAD","l":"sede"},{"m":"practica1DAD","l":"server"}];updateSearchResults();
